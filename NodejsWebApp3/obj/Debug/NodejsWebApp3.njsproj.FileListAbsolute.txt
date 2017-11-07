@@ -1,0 +1,3 @@
+D:\Milos\git_repo\NodeAp3\NodejsWebApp3\obj\Debug\NodejsWebApp3.njsprojResolveAssemblyReference.cache
+D:\Milos\git_repo\NodeAp3\NodejsWebApp3\obj\Debug\NodejsWebApp3.njsproj.CoreCompileInputs.cache
+D:\Milos\git_repo\NodeAp3\NodejsWebApp3\bin\Microsoft.NodejsTools.WebRole.dll
